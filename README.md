@@ -1,6 +1,6 @@
 # GitHub Collaboration Lab
 
-This repository demonstrates Git and GitHub version control operations.
+This repository demonstrates advanced Git and GitHub collaboration.
 
 ## Objectives
 
