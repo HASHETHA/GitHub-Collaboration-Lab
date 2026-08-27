@@ -1,6 +1,6 @@
 # GitHub Collaboration Lab
 
-This repository demonstrates advanced Git and GitHub collaboration.
+This project demonstrates advanced Git collaboration.
 
 ## Objectives
 
