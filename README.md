@@ -1,6 +1,10 @@
 # GitHub Collaboration Lab
 
+<<<<<<< HEAD
 This project demonstrates advanced Git collaboration.
+=======
+This project demonstrates GitHub version control workflows.
+>>>>>>> main
 
 ## Objectives
 
